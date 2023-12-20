@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-porto/static/css/main.31d6cfe0.css",
+    "main.js": "/react-porto/static/js/main.e8337e25.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-porto/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/react-porto/index.html",
+    "main.e8337e25.js.map": "/react-porto/static/js/main.e8337e25.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-porto/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e8337e25.js"
+  ]
+}
